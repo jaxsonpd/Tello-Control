@@ -1,4 +1,4 @@
-# Tello-Controll
+# Tello-Control
 A collection of programs to control the DJI Tello drone  
 
 In this project are a collection of programs I designed to control the DJI Tello RC drone. This includes connecting to the drone through python sockets and sending from basic commands to more complicated programs. 
